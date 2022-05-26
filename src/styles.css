@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+html, body { height: 100%; }
+
+body { 
+   background-size: 100% 100%;
+   background-image: url(assets/6876899.jpg);
+   margin: 0; font-family: 'pacifico', cursive; 
+
+}
+
+.mat-button.mat-accent, .mat-icon-button.mat-accent, .mat-stroked-button.mat-accent {
+   color: rgb(0, 255, 60);
+}
+
+
+
+
+
